@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Training: pwn/reverse"
+title:  "Training: Security Fest"
 when: "May 31, 2017"
 author: verr & kw
 categories: meeting
