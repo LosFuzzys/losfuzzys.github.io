@@ -12,6 +12,8 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 <!-- generated using scripts/getPastCTFs.py  -->
 
 * 2017
+  <!-- place 40 (135.219 points), (before FAUST voting completed) -->
+  * FAUST CTF <span class="discreet">(place 9 of 50)</span>
   * SUTD Security Showdown Quals <span class="discreet">(place 1)</span>
   <!-- place 37 (135.219 points) -->
   * DEF CON CTF Qualifier <span class="discreet">(place 230 of 368)</span>
