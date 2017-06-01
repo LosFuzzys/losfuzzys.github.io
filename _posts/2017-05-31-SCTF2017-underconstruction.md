@@ -8,7 +8,7 @@ tags: [cat/web, tool/python, lang/java, tech/jwt, tech/jjwt]
 
 * **Category:** Web
 * **Points:** 200
-* **Solves:** tbd
+* **Solves:** 12
 * **Description:**
 
 >  Under Construction! Please protect your head, wear a hardhat.

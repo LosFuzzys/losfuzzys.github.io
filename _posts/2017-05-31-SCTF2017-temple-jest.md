@@ -8,7 +8,7 @@ tags: [cat/web, tool/python, lang/javascript, tech/nodejs]
 
 * **Category:** Web
 * **Points:** 200
-* **Solves:** tbd
+* **Solves:** 52
 * **Description:**
 
 > The target are setting up their intranet communication service. Hack it before they are done! 
