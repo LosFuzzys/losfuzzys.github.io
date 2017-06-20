@@ -12,6 +12,11 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 <!-- generated using scripts/getPastCTFs.py  -->
 
 * 2017
+  <!-- place 36 (152.323 points) -->
+  * Google Capture The Flag (Quals) <span class="discreet">(place 67 of 1977)</span>
+  * SHA CTF Teaser round <span class="discreet">(place 86 of 94)</span>
+  * SUTD Security Showdown Finals <span class="discreet">(place 2)</span>
+  * Security Fest <span class="discreet">(place 20 of 447)</span>
   <!-- place 40 (135.219 points), (before FAUST voting completed) -->
   * FAUST CTF <span class="discreet">(place 9 of 50)</span>
   * SUTD Security Showdown Quals <span class="discreet">(place 1)</span>
