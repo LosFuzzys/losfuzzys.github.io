@@ -12,6 +12,10 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 <!-- generated using scripts/getPastCTFs.py  -->
 
 * 2017
+  <!-- place 39 (153.723 points) -->
+  * SHA CTF <span class="discreet">(place 35 of 462)</span>
+  * PoliCTF <span class="discreet">(place 18 of 252)</span>
+  * Nuit du Hack CTF Finals <span class="discreet">(place 7 of 9)</span>
   <!-- place 36 (152.323 points) -->
   * Google Capture The Flag (Quals) <span class="discreet">(place 67 of 1977)</span>
   * SHA CTF Teaser round <span class="discreet">(place 86 of 94)</span>
