@@ -6,7 +6,7 @@ permalink: /
 
 ## Welcome to LosFuzzys' webpage
 
-<img src="/images/fuzzy.jpg" style="width:7em; height:7em; float:right;" />
+<img src="/images/fuzzy.jpg" style="width:7em; height:7em; float:right;" alt="Our mascots, fuzzy bugs" />
 
 *LosFuzzys* is a CTF¹ team located in Graz, Europe.
 
@@ -23,5 +23,5 @@ We are a group of people interested in information security, which [participates
 
 
 <p class="small dark">
-¹ - <strike>Cyber Task Force</strike> Capture The Flag
+¹ - <del>Cyber Task Force</del> Capture The Flag
 </p>
