@@ -87,6 +87,17 @@ header h2 {
   margin: 0;
 }
 
+/* Footer
+*/
+
+footer {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-top: 1px dashed #bfe853;
+  margin-top: 40px;
+}
+
+
 /* Main Content
 */
 
