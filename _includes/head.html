@@ -1,7 +1,7 @@
-   <meta charset='utf-8'>
+    <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-     <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen">
@@ -13,4 +13,8 @@
 
     <!--<link rel="space-api" title="Space API Endpoint" type="application/json" href="https://spaceapi.net/new/space/losfuzzyslab/status/json"/>-->
 
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
