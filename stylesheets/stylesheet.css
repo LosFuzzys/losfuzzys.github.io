@@ -21,9 +21,17 @@ section {
   margin: 0 0 20px 0;
 }
 
-section#navigation {
+nav {
   display: block;
-  margin: 0 0 0px 0;
+  margin: 5px 0 8px 0;
+}
+
+nav::before {
+  content: "./";
+  font-size: 18px;
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  margin: 0 0 0 -34px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -60,19 +68,6 @@ header h1 {
                0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
-}
-
-/*header h1:before {
-  content: "./ ";
-  font-size: 24px;
-}*/
-
-section#navigation:before {
-  content: "./";
-  font-size: 18px;
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  margin: 0 0 0 -34px;
 }
 
 header h2 {
