@@ -12,6 +12,11 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 <!-- generated using scripts/getPastCTFs.py  -->
 
 * 2017
+  <!-- place 28 (199.550 points) -->
+  * EKOPARTY CTF <span class="discreet">(place 9 of 184)</span>
+  * CSAW CTF Qualification Round <span class="discreet">(place 168 of 1444)</span>
+  * ASIS CTF Finals <span class="discreet">(place 16 of 590)</span>
+  * RHme3 - Qualifiers <span class="discreet">(place 6 of 484)</span>
   <!-- place 39 (153.723 points) -->
   * SHA CTF <span class="discreet">(place 35 of 462)</span>
   * PoliCTF <span class="discreet">(place 18 of 252)</span>
