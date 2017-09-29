@@ -12,6 +12,11 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 <!-- generated using scripts/getPastCTFs.py  -->
 
 * 2017
+  <!-- place 28 (199.550 points) -->
+  * EKOPARTY CTF <span class="discreet">(place 9 of 184)</span>
+  * CSAW CTF Qualification Round <span class="discreet">(place 168 of 1444)</span>
+  * ASIS CTF Finals <span class="discreet">(place 16 of 590)</span>
+  * RHme3 - Qualifiers <span class="discreet">(place 6 of 484)</span>
   <!-- place 39 (153.723 points) -->
   * SHA CTF <span class="discreet">(place 35 of 462)</span>
   * PoliCTF <span class="discreet">(place 18 of 252)</span>
@@ -19,11 +24,11 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
   <!-- place 36 (152.323 points) -->
   * Google Capture The Flag (Quals) <span class="discreet">(place 67 of 1977)</span>
   * SHA CTF Teaser round <span class="discreet">(place 86 of 94)</span>
-  * SUTD Security Showdown Finals <span class="discreet">(place 2)</span>
+  * SUTD Security Showdown Finals <span class="discreet">(place 2 of 6)</span>
   * Security Fest <span class="discreet">(place 20 of 447)</span>
   <!-- place 40 (135.219 points), (before FAUST voting completed) -->
   * FAUST CTF <span class="discreet">(place 9 of 50)</span>
-  * SUTD Security Showdown Quals <span class="discreet">(place 1)</span>
+  * SUTD Security Showdown Quals <span class="discreet">(place 1 of 9)</span>
   <!-- place 37 (135.219 points) -->
   * DEF CON CTF Qualifier <span class="discreet">(place 230 of 368)</span>
   * PlaidCTF <span class="discreet">(place 108 of 555)</span>
@@ -31,7 +36,7 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
   * Nuit du Hack CTF Quals <span class="discreet">(place 9 of 378)</span>
   * 0CTF  Quals <span class="discreet">(place 197 of 908)</span>
   * BSides Ljubljana CTF <span class="discreet">(place 1 of 13)</span>
-  * UCSB iCTF <span class="discreet">(place 10)</span>
+  * UCSB iCTF <span class="discreet">(place 10 of 317)</span>
   <!-- place 17 (78.738 points) -->
   * Boston Key Party CTF <span class="discreet">(place 20 of 948)</span>
   * BSides San Francisco CTF <span class="discreet">(place 28 of 531)</span>

@@ -1,10 +1,9 @@
     <div class="container">
-        <h1>LosFuzzys</h1>
-        <h2>don&#39;t feed the bugs!</h2>
+        <img src="/images/logo_gruen_web.png" style="max-width:50%; height: auto" alt="LosFuzzys: don't feed the bugs">
 
-        <section id="navigation">
+        <nav>
         {% for page in site.pages %}
           {% if page.title %}{% unless page.hidden %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endunless %}{% endif %}
         {% endfor %}
-        </section>
+        </nav>
     </div>
