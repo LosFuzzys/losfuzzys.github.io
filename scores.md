@@ -12,6 +12,9 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 <!-- generated using scripts/getPastCTFs.py  -->
 
 * 2017
+  <!-- place 31 (213.530 points) -->
+  * Hack Dat Kiwi <span class="discreet">(place 47 of 306)</span>
+  * BackdoorCTF <span class="discreet">(place 75 of 212)</span>
   <!-- place 28 (199.550 points) -->
   * EKOPARTY CTF <span class="discreet">(place 9 of 184)</span>
   * CSAW CTF Qualification Round <span class="discreet">(place 168 of 1444)</span>
