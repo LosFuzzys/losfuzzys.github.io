@@ -99,7 +99,7 @@ hitcon{idea_from_phith0n,thank_you:)}
 
 The script we used (via ipython "run script") to get a shell on the system.
 
-```python3
+```python
 import requests as rq
 import hashlib as h
 import binascii as ba
