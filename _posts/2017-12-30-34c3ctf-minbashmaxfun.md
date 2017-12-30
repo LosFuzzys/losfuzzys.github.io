@@ -113,23 +113,33 @@ Here, our dollar literal also comes in handy, because we can now use these escap
 
 The solution for this we thought was "more BASHing!". Just add a layer of bash, that's never going to hurt :)
 
-`${!#}<<<${!#}\<\<\<\$\'\\${##}$#${##}\'`
+```
+${!#}<<<${!#}\<\<\<\$\'\\${##}$#${##}\'
+```
 
 which is
 
-`bash <<< bash \<\<\< \$\'\\${##}$#${##}\'`
+```
+bash <<< bash \<\<\< \$\'\\${##}$#${##}\'
+```
 
 and evaluates to
 
-`bash <<< $'\101'`
+```
+bash <<< $'\101'
+```
 
 which is
 
-`A`
+```
+A
+```
 
 which yields
 
-`bash: A: command not found`
+```
+bash: A: command not found
+```
 
 Finally! We managed to create an ascii character!
 
