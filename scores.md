@@ -11,7 +11,15 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 <!-- generated using scripts/getPastCTFs.py  -->
 
-* 2017
+* 2018
+  * [**Upcoming Events**](https://ctftime.org/event/list/?year=2018&online=1&format=0&restrictions=-1).
+
+* 2017 (Overall rating place: #39, Austria: #1)
+  <!-- place 39 (224.325 points) -->
+  * 34C3 CTF <span class="discreet">(place 20 of 187)</span>
+  * RuCTFE <span class="discreet">(place 24 of 150)</span>
+  * hxp CTF <span class="discreet">(place 5 of 499)</span>
+  * HITCON CTF  Quals <span class="discreet">(place 52 of 1075)</span>
   <!-- place 31 (213.530 points) -->
   * Hack Dat Kiwi <span class="discreet">(place 47 of 306)</span>
   * BackdoorCTF <span class="discreet">(place 75 of 212)</span>
@@ -48,7 +56,7 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
   * AlexCTF <span class="discreet">(place 19 of 1029)</span>
   * Insomni'hack teaser <span class="discreet">(place 36 of 339)</span>
 
-* 2016 (Overall rating place: 36)
+* 2016 (Overall rating place: 36, Austria: #2)
   <!-- place 36 (333.244 points) -->
   * 33C3 CTF <span class="discreet">(place 48 of 277)</span>
   <!-- place 38 (293.092 points) -->
