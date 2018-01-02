@@ -57,6 +57,11 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
   * AlexCTF <span class="discreet">(place 19 of 1029)</span>
   * Insomni'hack teaser <span class="discreet">(place 36 of 339)</span>
 
+The [score rating formula](https://ctftime.org/rating-formula/) was [changed](https://github.com/ctftime/ctftime.org/issues/40) between 2016 and 2017.
+Until 2016, all results of individual CTFs counted in the yearly rating.
+Since 2017, only the 10 best results count in the yearly rating.
+
+
 ### 2016 
 (Overall rating place: 36, Austria: #2)
   <!-- place 36 (333.244 points) -->
