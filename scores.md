@@ -11,10 +11,11 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 <!-- generated using scripts/getPastCTFs.py  -->
 
-* 2018
-  * [**Upcoming Events**](https://ctftime.org/event/list/?year=2018&online=1&format=0&restrictions=-1).
+### 2018
+  * [*Upcoming Events*](https://ctftime.org/event/list/?year=2018&online=1&format=0&restrictions=-1).
 
-* 2017 (Overall rating place: #39, Austria: #1)
+### 2017 
+(Overall rating place: #39, Austria: #1)
   <!-- place 39 (224.325 points) -->
   * 34C3 CTF <span class="discreet">(place 20 of 187)</span>
   * RuCTFE <span class="discreet">(place 24 of 150)</span>
@@ -56,7 +57,8 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
   * AlexCTF <span class="discreet">(place 19 of 1029)</span>
   * Insomni'hack teaser <span class="discreet">(place 36 of 339)</span>
 
-* 2016 (Overall rating place: 36, Austria: #2)
+### 2016 
+(Overall rating place: 36, Austria: #2)
   <!-- place 36 (333.244 points) -->
   * 33C3 CTF <span class="discreet">(place 48 of 277)</span>
   <!-- place 38 (293.092 points) -->
@@ -95,7 +97,8 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
   * EFF CTF
   * Insomni'hack teaser <span class="discreet">(place 44 of 245)</span>
 
-* 2015 (Overall rating place: 152)
+### 2015 
+(Overall rating place: 152)
   <!-- place 152 (73.994 points) -->
   * 32C3 CTF <span class="discreet">(place 58 of 389)</span>
   * FAUST CTF <span class="discreet">(place 6 of 62)</span>
@@ -108,7 +111,8 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
   * Boston Key Party CTF <span class="discreet">(place 90 of 822)</span>
   * Ghost in the Shellcode <span class="discreet">(place 283 of 321)</span>
 
-* 2014 (Overall rating place: 424)
+### 2014 
+(Overall rating place: 424)
   <!-- place 424 (22.027 points) -->
   * RuCTFE <span class="discreet">(place 62 of 133)</span>
   * Hack.lu CTF <span class="discreet">(place 85 of 395)</span>
