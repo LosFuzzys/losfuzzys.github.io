@@ -22,6 +22,7 @@ The calendar contains LosFuzzys' trainings and meetings. Furthermore, we add int
 ## Weekly Trainings?
 
 LosFuzzys and friends meet every Wednesday at 18:30 to discuss current topics, look at some CTF challenges together in a relaxed atmosphere, and talk about the security stuff we recently learned or the cool tool we just discovered.
+It is always a good idea to bring your computer.
 
 **The meetings are very informal an open to everyone!** For special meetings and topic announcements check out the calender (above) or the announcements (below).
 
