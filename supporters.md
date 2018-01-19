@@ -9,9 +9,11 @@ permalink: /supporters/
 
 [![Realraum Logo][logo-realraum]](https://r3.at)
 [![Netcup Logo][logo-netcup]](https://www.netcup.de/)
+[![Yagoba Logo][logo-yagoba]](https://www.yagoba.com)
 
 
 [logo-tug]: /images/logo_tug.jpg "TU Graz Logo" 
 [logo-iaik]: /images/logo_iaik.jpg "IAIK Logo" 
 [logo-netcup]: /images/logo_netcup.jpg "Netcup Logo"
 [logo-realraum]: /images/logo_realraum.jpg "realraum Logo"
+[logo-yagoba]: /images/logo_yagoba.png "Yagoba Logo"
