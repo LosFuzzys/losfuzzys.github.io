@@ -10,6 +10,8 @@ permalink: /blog/
 {% endfor %}
 </ul>
 
+For more news, follow us on Twitter: [@LosFuzzys](https://twitter.com/LosFuzzys)
+
 ## Trainings
 
 <ul>
