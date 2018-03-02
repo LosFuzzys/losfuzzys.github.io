@@ -7,7 +7,7 @@ permalink: /meetings/
 **IMPORTANT:**
 All our meetings are open to everyone, so if you are not part of LosFuzzys, feel free to come anyway. And if you know some people interested in what we do, please invite them. :-)
 
-(see also [our blog](/blog/).)
+(for special trainings see also [our blog](/blog/).)
 
 
 ## Calendar
