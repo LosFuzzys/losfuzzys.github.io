@@ -7,7 +7,7 @@ permalink: /meetings/
 **IMPORTANT:**
 All our meetings are open to everyone, so if you are not part of LosFuzzys, feel free to come anyway. And if you know some people interested in what we do, please invite them. :-)
 
-(see also [our announcements below](#announcements).)
+(see also [our blog](/blog/).)
 
 
 ## Calendar
@@ -29,16 +29,4 @@ It is always a good idea to bring your computer.
 We usually meet in IAIK's [Meeting room (IFEG074)](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=983&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=3020009&pRaumNr=4839&pActionFlag=A&pShowEinzelraum=J) or [Seminar room (IFEG042)](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=983&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=3020009&pRaumNr=4844&pActionFlag=A&pShowEinzelraum=J). Both rooms are part of TU Graz' [Inffeldgasse Campus](https://tu4u.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Bilder/Campusplan/Gebaeudebereich-IFG.gif) and located at the ground floor of Inffeldgasse 16a.
 
 In case you are interested in participating (or just curious), feel free to visit us at the [FuzzyLab (IFEG064)](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=983&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=3020009&pRaumNr=4838&pActionFlag=A&pShowEinzelraum=J).
-
-
-## Announcements
-
-<ul>
-{% for post in site.categories.meeting %}
-<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> @ {{ post.when }} </li>
-{% endfor %}
-</ul>
-
-subscribe [via Atom]({{ "/feed.xml" | prepend: site.baseurl }})
-
 
