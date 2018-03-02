@@ -13,6 +13,11 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 ### 2018
   * [*Upcoming Events*](https://ctftime.org/event/list/?year=2018&online=1&format=0&restrictions=-1).
+  <!-- place 33 (49.735 points) -->
+  * TAMUctf 18 <span class="discreet">(place 18 of 1272)</span>
+  * EvlzCTF <span class="discreet">(place 204 of 241)</span>
+  * SharifCTF 8 <span class="discreet">(place 6 of 682)</span>
+  * Insomni'hack teaser <span class="discreet">(place 7 of 433)</span>
 
 ### 2017 
 (Overall rating place: #39, Austria: #1)
