@@ -2,6 +2,7 @@
 layout: mainpage
 title: Home
 permalink: /
+hidden: true
 ---
 
 ## Welcome to LosFuzzys' webpage
