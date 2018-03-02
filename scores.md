@@ -12,7 +12,7 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 <!-- generated using scripts/getPastCTFs.py  -->
 
 ### 2018
-  * [*Upcoming Events*](https://ctftime.org/event/list/?year=2018&online=1&format=0&restrictions=-1).
+  * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
   <!-- place 33 (49.735 points) -->
   * TAMUctf 18 <span class="discreet">(place 18 of 1272)</span>
   * EvlzCTF <span class="discreet">(place 204 of 241)</span>
