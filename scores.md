@@ -13,6 +13,10 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 ### 2018
   * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
+  <!-- place 71 (75.921 points) -->
+  * VolgaCTF  Quals <span class="discreet">(place 82 of 411)</span>
+  * UCSB iCTF <span class="discreet">(place 4 of 266)</span>
+  * N1CTF <span class="discreet">(place 179 of 517)</span>
   <!-- place 33 (49.735 points) -->
   * TAMUctf 18 <span class="discreet">(place 18 of 1272)</span>
   * EvlzCTF <span class="discreet">(place 204 of 241)</span>
