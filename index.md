@@ -22,8 +22,9 @@ We are a group of people interested in information security, which [participates
 
 <p class="small dark">LosFuzzys is currently coordinated by 
   <a href="https://twitter.com/stefan2904">stefan</a>, 
-  <a href="https://twitter.com/__kaydoubleu__">kw</a>, and 
-  <a href="https://twitter.com/a95bc16631ae2b6">qqq</a> 
+  <a href="https://twitter.com/__kaydoubleu__">kw</a>, 
+  <a href="https://twitter.com/a95bc16631ae2b6">rs</a>, and
+  <a href="https://github.com/exokortex">exo</a>
   (previously also by <a href="https://twitter.com/f0rki">f0rki</a>, ...).
 </p>
 
