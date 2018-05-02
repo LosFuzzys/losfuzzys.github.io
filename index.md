@@ -11,7 +11,12 @@ hidden: true
 
 *LosFuzzys* is a CTF¹ team located in Graz, Europe.
 
-We are a group of people interested in information security, which [participates](https://ctftime.org/team/8323) in [CTFs](https://ctftime.org/ctf-wtf/).
+We are a group of people interested in information security. 
+
+*  We [participate](https://ctftime.org/team/8323) in [CTFs](https://ctftime.org/ctf-wtf/)
+*  We host [regular meetings and trainings](/meetings) to learn, discuss and socialize
+*  We hack on stuff in [FuzzyLab](https://www.openstreetmap.org/node/5362205412) on TUGraz' Inffeldgasse Campus
+*  We run our own 24/7 CTF at [fuzzy.land](https://fuzzy.land)
 
 <p class="small dark">You are located in Graz? You are interested in competitive information security competitions? You want to participate? Feel free to reach out to us!</p>
 
