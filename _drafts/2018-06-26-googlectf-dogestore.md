@@ -21,7 +21,7 @@ tags: [cat/crypto, tool/python-pwntools]
 
 As with the last two years, Google hosted another Capture the Flag competition.
 This time the challenges were quite hard, but also lots of fun to solve. We,
-"LosFuzzys", also teamed up with the Viennese CTF team "We\_0wn\_You" and played
+"LosFuzzys", teamed up with the Viennese CTF team "We\_0wn\_You" and played
 together under the name "KuK Hofhackerei".
 
 We didn't solve this challenge in time, but our exploit did finish executing a
@@ -100,7 +100,7 @@ fn store(data: &Vec<u8>) -> String {
 ## The Code
 
 It seems this code is part of the server. The `store(data)` function seems to be the
-main entrypoint where the sent data is processed.
+main entry point where the sent data is processed.
 
 After a bit of experimenting with the service, we found out that the `data`
 variable is the raw input we send to the server.
@@ -111,7 +111,7 @@ stated in the `FLAG_DATA_SIZE` constant.
 Once there, it gets processed in multiple steps:
 
 - `decrypt(data)`:
-  our data is decrypted with AES 256 CTR mode with an unknown key and nonce
+  our data is decrypted with AES-256 in CTR mode with an unknown key and nonce
 - `deserialize(decrypted)`:
   an array of `Unit`s is constructed from the decrypted data, representing a
   byte and a count (how often the byte should be repeated). This is a kind of
@@ -129,7 +129,7 @@ Once there, it gets processed in multiple steps:
 ## The Vulnerability
 
 Looking at the steps, it doesn't look that bad, but after a little bit of trying
-around, it seems that *the nonce used in AES 256 CTR is constant* and reused
+around, it seems that *the nonce used for decryption is constant* and reused
 every time we send something to the server. This is a glaring vulnerability, as
 a nonce should only ever be used once.
 
@@ -227,9 +227,9 @@ decrypted:  let1 cnt1 decr  cnt2  =>  test2_hash
          flipped lowest-order bit
 ```
 
-In this attack, `let1`, `cnt1`, `let2`, and `cnt2` represent bytes from the AES
-256 CTR XOR-pad, interpreted as a letter or count when sending an (almost) all
-zeroes ciphertext.
+In this attack, `let1`, `cnt1`, `let2`, and `cnt2` represent bytes from the
+decryption XOR-pad, interpreted as a letter or count when sending an (almost)
+all zeroes ciphertext.
 
 `decr` is the XOR between `guess` and `let2`.
 
@@ -245,7 +245,7 @@ This means that in as little as `256*4` (worst-case) attempts, we can recover
 the XOR between two adjacent letter bytes. (adjacent in this context means
 located in adjacent `Unit`s)
 
-For recovering the XOR between count bytes, a few more hashes are neccessary:
+For recovering the XOR between count bytes, a few more hashes are necessary:
 
 ### Recovering the Count XOR
 
@@ -273,12 +273,12 @@ count bytes.
 
 ### Chaining the attack
 
-To attack different parts of the AES 256 CTF XOR-pad the attack payload can be
+To attack different parts of the decryption XOR-pad the attack payload can be
 prepended and appended with anything (we chose zeroes) to move the payload to
 overlap the attacked two units.
 
 After attacking each pair, the XOR between two letter and count bytes
-respectively is known. Knowledge of the precending and following letter and
+respectively is known. Knowledge of the preceding and following letter and
 count XOR values is not needed, so the attack can be trivially distributed and
 parallelized. The limiting factor is the speed of the attacked server.
 
@@ -310,7 +310,7 @@ encrypted with the key can be decrypted.
 Fortunately, we know that the decrypted secret must contain the text `CTF{`,
 since a flag must be in there somewhere.
 
-Using this, we first guess the first letter key byte (256 possibilites) and
+Using this, we first guess the first letter key byte (256 possibilities) and
 ignore the run-length count (always take each letter once). For each possible
 decryption that contains `CTF{` we then guess the first count byte (256
 possibilities), looking for decryptions that contain `CTF{` even after
@@ -467,7 +467,7 @@ def find_all_xor():
     """
     Find all XOR differences in the AES_256_CTR xorpad
 
-    Narrows down the keyspace to 256*256 possibilites
+    Narrows down the key space to 256*256 possibilities
     """
     for i in range(0, FLAG_SIZE - 1):
         print(">> {}".format(i))
