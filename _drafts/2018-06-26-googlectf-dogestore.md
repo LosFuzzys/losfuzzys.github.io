@@ -20,7 +20,9 @@ tags: [cat/crypto, tool/python-pwntools]
 ## Writeup
 
 As with the last two years, Google hosted another Capture the Flag competition.
-This time the challenges were quite hard, but also lots of fun to solve.
+This time the challenges were quite hard, but also lots of fun to solve. We also
+teamed up with the Viennese CTF team "We\_0wn\_You" and played under the name
+"K&K Hofhackerei".
 
 We didn't solve this challenge in time, but our exploit did finish executing a
 few hours after the CTF closed.
@@ -96,8 +98,8 @@ fn store(data: &Vec<u8>) -> String {
 It seems this code is part of the server. The `store(data)` function seems to be the
 main entrypoint where the sent data is processed.
 
-After a bit of experimenting with the service, we found out the `data` variable
-is the raw input we send to the server.
+After a bit of experimenting with the service, we found out that the `data`
+variable is the raw input we send to the server.
 
 However, we noticed that the server reads *110* bytes, not the *112* bytes
 stated in the `FLAG_DATA_SIZE` constant.
