@@ -20,9 +20,9 @@ tags: [cat/crypto, tool/python-pwntools]
 ## Writeup
 
 As with the last two years, Google hosted another Capture the Flag competition.
-This time the challenges were quite hard, but also lots of fun to solve. We also
-teamed up with the Viennese CTF team "We\_0wn\_You" and played under the name
-"K&K Hofhackerei".
+This time the challenges were quite hard, but also lots of fun to solve. We,
+"LosFuzzys", also teamed up with the Viennese CTF team "We\_0wn\_You" and played
+together under the name "KuK Hofhackerei".
 
 We didn't solve this challenge in time, but our exploit did finish executing a
 few hours after the CTF closed.
