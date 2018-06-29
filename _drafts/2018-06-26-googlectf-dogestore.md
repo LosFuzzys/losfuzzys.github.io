@@ -37,6 +37,10 @@ At first we tried looking at the attached files. There were two files:
 The objective was to recover the plaintext contents of the `encrypted_secret`
 file.
 
+We can also send an encrypted file to the server and have it decrypt and decode
+the file. It will then send back the base64-encoded SHA3 hash of the decoded
+data.
+
 Here are the contents of the Rust file:
 
 ```rust
