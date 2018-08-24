@@ -13,6 +13,12 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 ### 2018
   * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
+  <!-- place 66 (129.476 points) -->
+  * CODE BLUE CTF  Quals <span class="discreet">(place 22 of 542)</span>
+  * FAUST CTF <span class="discreet">(place 49 of 65)</span>
+  * DEF CON CTF Qualifier <span class="discreet">(place 62 of 586)</span>
+  * PlaidCTF <span class="discreet">(place 26 of 986)</span>
+  * ASIS CTF Quals <span class="discreet">(place 91 of 736)</span>
   <!-- place 71 (75.921 points) -->
   * VolgaCTF  Quals <span class="discreet">(place 82 of 411)</span>
   * UCSB iCTF <span class="discreet">(place 4 of 266)</span>
