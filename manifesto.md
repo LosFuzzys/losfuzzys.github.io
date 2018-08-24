@@ -5,11 +5,18 @@ permalink: /manifesto/
 redirect_from: "/manifesto.html"
 ---
 
-*LosFuzzys* is a group of people interested in information security, which occasionally participates in CTFs. ([What is CTF?](https://ctftime.org/ctf-wtf/))
+*LosFuzzys* is a team of people interested in information security, which
+participates in CTFs. ([What is CTF?](https://ctftime.org/ctf-wtf/))
 
-Our motivation is our interest in information security, and technology in general. We love challenges and CTFs provide a great way of practising information security related skills and also team-work in diverse teams. CTFs are collaborative and competitive at the same time and most importantly, they are fun.
+Our motivation is our interest in information security, and technology in
+general. We love challenges and CTFs provide a great way of practising
+information-security-related skills and also teamwork in diverse teams. CTFs
+are collaborative and competitive at the same time and most importantly, they
+are fun.
 
-*LosFuzzys* welcomes people with different skill levels; a curious beginner is as much welcome as an experienced person. We also embrace different skill sets and diverse backgrounds.
+*LosFuzzys* welcomes people with different skill levels; a curious beginner is
+as much welcome as an experienced person. We also embrace different skill sets
+and diverse backgrounds.
 
 * We believe in information sharing and open knowledge, in a responsible way.
 * We believe in privacy and respect the privacy of others.
