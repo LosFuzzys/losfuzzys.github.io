@@ -18,9 +18,12 @@ TEAMURL = '/team/8323'
 
 re_overall = '<p align=\"left\">Overall rating place: <b>\s*(\d+)\s*</b> with <b>(\d*\.\d*)</b> pts in (\d+)</p>'
 
+headers = { # since CTFtime started to block python requests ...
+    'User-Agent': 'LosFuzzys Crawler 2018.08.24'
+   }
 
 def getNumberOfParticipatingTeams(ctf_url):
-    team_html = requests.get(BASEURL + ctf_url).text
+    team_html = requests.get(BASEURL + ctf_url, headers=headers).text
     soup = BeautifulSoup(team_html, 'html.parser')
 
     return soup.find_all('td', {'class': 'place'})[-1].string
@@ -32,7 +35,7 @@ def logScore(year, place, points):
 
 
 def getPastCTFs():
-    team_html = requests.get(BASEURL + TEAMURL).text
+    team_html = requests.get(BASEURL + TEAMURL, headers=headers).text
     soup = BeautifulSoup(team_html, 'html.parser')
 
     for year_data in soup.find_all('div', id=re.compile("rating_")):
