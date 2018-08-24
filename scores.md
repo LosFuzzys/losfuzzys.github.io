@@ -15,6 +15,7 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
   * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
   <!-- place 66 (129.476 points) -->
   * CODE BLUE CTF  Quals <span class="discreet">(place 22 of 542)</span>
+  * Google Capture The Flag  (Quals) <span class="discreet">(place 21 of 220)<sup><a href="https://twitter.com/stefanmore/status/1011087068745912325">[*]</a></sup></span>
   * FAUST CTF <span class="discreet">(place 49 of 65)</span>
   * DEF CON CTF Qualifier <span class="discreet">(place 62 of 586)</span>
   * PlaidCTF <span class="discreet">(place 26 of 986)</span>
