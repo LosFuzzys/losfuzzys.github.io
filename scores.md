@@ -13,6 +13,8 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 ### 2018
   * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
+  <!-- place 53 (151.720 points) -->
+  * TokyoWesterns CTF 4th <span class="discreet">(place 27 of 810)</span>
   <!-- place 66 (129.476 points) -->
   * CODE BLUE CTF  Quals <span class="discreet">(place 22 of 542)</span>
   * Google Capture The Flag  (Quals) <span class="discreet">(place 21 of 220)<sup><a href="https://twitter.com/stefanmore/status/1011087068745912325">[*]</a></sup></span>
