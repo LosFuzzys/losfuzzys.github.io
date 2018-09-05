@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 BASEURL = 'https://ctftime.org'
 TEAMURL = '/team/8323' # LosFuzzys
-TEAMURL = '/team/59774' # KuK Hofhackerei
+# TEAMURL = '/team/59774' # KuK Hofhackerei
 
 # API (not usefull):
 # * https://ctftime.org/api/v1/teams/8323/ --> not enough infos :(
