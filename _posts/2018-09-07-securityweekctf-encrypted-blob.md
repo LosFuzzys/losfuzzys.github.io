@@ -65,7 +65,7 @@ We can see that a large part of the file consists of the same block repeating
 over and over.
 
 We initially concluded that the file must have been encrypted with a block
-cypher that does not use a special mode to prevent us from seeing the structure
+cipher that does not use a special mode to prevent us from seeing the structure
 of the plain text. But if something like AES ECB mode was used, we would not
 be able to decrypt the file without the key. So it must be something else.
 
