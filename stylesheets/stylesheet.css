@@ -272,6 +272,7 @@ a {
   font-size: 13px;
 }
 
-
-
-
+code.highlighter-rouge {
+  color: #b5e853;
+  font-size: 125%;
+}
