@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Graz Security Week 2018: diJIT Integrator"
+title: "Security Week Graz 2018: diJIT Integrator"
 author: mickdermack
 categories: writeup
 tags: [cat/pwn, tool/afl, vuln/custom-jit]
