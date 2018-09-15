@@ -10,6 +10,7 @@ github_username:  losfuzzys
 # Build settings
 markdown: kramdown
 permalink: pretty
+future: true
 
 kramdown:
     input: GFM
