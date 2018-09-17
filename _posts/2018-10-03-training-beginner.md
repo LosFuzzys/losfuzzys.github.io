@@ -15,7 +15,7 @@ First meeting in this years' winter term!
 If so, this is the perfect training to get to know LosFuzzys!
 
 * **When?** Wednesday (03. October), 18:15
-* **Where?** @IAIK, Inffeldgasse 16a, IFEG065 (FuzzyLab, ground floor)
+* **Where?** @IAIK, Inffeldgasse 16a, IFEG064 (FuzzyLab, ground floor)
 * **Who?** you!
 
 What will we do:
