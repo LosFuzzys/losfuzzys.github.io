@@ -13,6 +13,7 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 ### 2018
   * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
+  * CSAW’18 CTF Qualification Round <span class="discreet">(place 21 of 875)</span>
   * Security Week Graz CTF <span class="discreet">(place 1 of 18)</span>
   <!-- place 53 (151.720 points) -->
   * TokyoWesterns CTF 4th <span class="discreet">(place 27 of 810)</span>
