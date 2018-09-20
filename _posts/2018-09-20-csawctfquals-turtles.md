@@ -27,7 +27,8 @@ us this is an Objective-C program (`objc_get_class` and `objc_msg_lookup`).
 
 For those unfamiliar with Objective-C, it is mostly like C, but there is a
 mechanism for Object-Oriented-Programming where methods on objects are called
-using the functions `objc_msg_send` and `objc_msg_lookup`.
+using the functions `objc_msg_send` and `objc_msg_lookup` (in the ABI, the
+syntax for it looks like `[instance method: parameter]`).
 
 A "message" is just a method call. Methods are identified by a "selector", which
 is just the method name. At runtime these selectors are replaced with a 64-bit
