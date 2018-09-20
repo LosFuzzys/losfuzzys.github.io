@@ -297,7 +297,7 @@ This gives us the flag:
 
 ![qemu stage 2 flag](/images/posts/2018-09-20-csawctfquals-tour-of-x86-stage2.png)
 
-The other way of solving the flag is to manually decrypt the flag character
+The other way of getting the flag is to manually decrypt the flag character
 buffer with the XOR key generated from the string 'Elyk' (the key is 0x69):
 
 ```py
