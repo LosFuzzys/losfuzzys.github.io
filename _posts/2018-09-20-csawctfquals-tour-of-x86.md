@@ -314,7 +314,7 @@ hex-encoded binary that gets appended to the Stage 2 payload to be executed
 after the flag is rendered, we then get a port on which we can observe the
 binary over VNC.
 
-The flag seems to be appended after our code, so I just wrote a script that
+The flag seems to be appended after our code, so I just wrote some asm that
 hexdumps the bytes of our binary and everything after that in an infinite loop:
 
 ```as
@@ -373,7 +373,7 @@ output:
     ret
 ```
 
-Sending this to the port and looking into VNC reveals this:
+Sending this to the port and connecting via VNC reveals this:
 
 ![qemu stage 3 flag](/images/posts/2018-09-20-csawctfquals-tour-of-x86-stage3.png)
 
