@@ -13,6 +13,7 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 ### 2018
   * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
+  * D-CTF 2018 Qualification Round <span class="discreet">(place 13 of 405)</span>
   * CSAW’18 CTF Qualification Round <span class="discreet">(place 21 of 875)</span>
   * SEC-T CTF <span class="discreet">(place 99 of 463)</span>
   * Security Week Graz CTF <span class="discreet">(place 1 of 18)</span>
