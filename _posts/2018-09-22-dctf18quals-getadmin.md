@@ -182,7 +182,7 @@ function decompress($cookie) {
 ```
 
 So our cookie is first AES-CBC decrypted.
-If tis operation fails, we get the `'Decryption error (0).'`.
+If this operation fails, we get the `'Decryption error (0).'`.
 This is the only time we get this specific error message and the only way
 for the decryption to fail in this phase is if the padding at the end of
 the last block is incorrect.
