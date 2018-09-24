@@ -16,7 +16,7 @@ kramdown:
     input: GFM
 
 # github gems
-# (see https://help.github.com/categories/github-pages-features/ )
+# (see https://help.github.com/articles/configuring-jekyll-plugins/#optional-plugins )
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
