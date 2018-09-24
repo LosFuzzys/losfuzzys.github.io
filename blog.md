@@ -6,7 +6,7 @@ permalink: /blog/
 
 <ul>
 {% for post in site.categories.blog %}
-<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> @ {{ post.when }} </li>
+<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="discreet">// posted {{ post.when }}</span></li>
 {% endfor %}
 </ul>
 
