@@ -24,7 +24,7 @@ What will we do:
   - Who are we, what do we do?
   - What is a CTF anyway?
 - Present some simple challenges for you.
-  - If you are already this kind stuff and are more advanced, we also have harder ones ;)
+  - If you already know this kind of stuff and are more advanced, we also have harder challenges ;)
 - Open session in the end for questions and general talk
 
 
