@@ -13,7 +13,11 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 ### 2018
   * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
-  * D-CTF 2018 Qualification Round <span class="discreet">(place 13 of 405)</span>
+  <!-- place 47 (192.298 points) -->
+  * InCTF <span class="discreet">(place 23 of 306)</span>
+  * Hackover CTF <span class="discreet">(place 11 of 201)</span>
+  * Teaser Dragon CTF <span class="discreet">(place 14 of 233)</span>
+  * D-CTF 2018 Qualification Round <span class="discreet">(place 13 of 406)</span>
   * CSAW’18 CTF Qualification Round <span class="discreet">(place 21 of 875)</span>
   * SEC-T CTF <span class="discreet">(place 99 of 463)</span>
   * Security Week Graz CTF <span class="discreet">(place 1 of 18)</span>
