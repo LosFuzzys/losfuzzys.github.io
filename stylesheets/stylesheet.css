@@ -276,3 +276,7 @@ code.highlighter-rouge {
   color: #b5e853;
   font-size: 125%;
 }
+
+pre {
+  border-color: rgba(255, 255, 255, 0.5);
+}
