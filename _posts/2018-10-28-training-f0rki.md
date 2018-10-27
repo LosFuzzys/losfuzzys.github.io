@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Special Training: Pwning Schmankerl with f0rki"
-when: "October 28, 2017"
+when: "October 28, 2018"
 author: verr & f0rki
 categories: meeting
 ---
