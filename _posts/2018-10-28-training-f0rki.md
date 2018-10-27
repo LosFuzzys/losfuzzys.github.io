@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "pecial Training: Binary Pwning Schmankerl with f0rki"
+title:  "Special Training: Pwning Schmankerl with f0rki"
 when: "October 28, 2017"
 author: verr & f0rki
 categories: meeting
