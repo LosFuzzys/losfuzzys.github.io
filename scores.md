@@ -13,6 +13,21 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 ### 2018
   * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
+  <!-- place 395 (6.594 points) -->
+  * Insomni'hack teaser <span class="discreet">(place 42 of 236)</span>
+
+### 2018
+(Overall rating place: #68, Austria: #1)
+  <!-- place 68 (206.564 points) -->
+  * 35C3 CTF <span class="discreet">(place 41 of 636)</span>
+  * OverTheWire Advent Bonanza <span class="discreet">(place 61 of 68)</span>
+  * Pwn2Win CTF <span class="discreet">(place 22 of 163)</span>
+  * TUCTF <span class="discreet">(place 300 of 764)</span>
+  * Square CTF <span class="discreet">(place 567 of 595)</span>
+  * DefCamp CTF Finals <span class="discreet">(place 16 of 17)</span>
+  * CSAW CTF Final Round <span class="discreet">(place 14 of 44)</span>
+  * HITCON CTF <span class="discreet">(place 101 of 1167)</span>
+  * Hack.lu CTF <span class="discreet">(place 212 of 303)</span>
   <!-- place 47 (192.298 points) -->
   * InCTF <span class="discreet">(place 23 of 306)</span>
   * Hackover CTF <span class="discreet">(place 11 of 201)</span>
