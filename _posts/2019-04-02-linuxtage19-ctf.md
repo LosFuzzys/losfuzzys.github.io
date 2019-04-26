@@ -20,3 +20,5 @@ Follow [@LosFuzzys on Twitter](https://twitter.com/losfuzzys) for more updates.
 
 On Friday, we are also hosting a [»Basic Hacking Workshop for Programmers«](https://pretalx.linuxtage.at/glt19/talk/CNSYLR/). See the Linuxtage agenda for more details.
 
+UPDATE: Thanks for your participation. Here are the [slides](https://hack.more.systems/images/glt19_workshop_slides.pdf).
+
