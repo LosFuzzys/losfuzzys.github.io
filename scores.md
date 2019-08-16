@@ -11,8 +11,16 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 
 <!-- generated using scripts/getPastCTFs.py  -->
 
-### 2018
+### 2019
   * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
+  <!-- place 118 (122.849 points) -->
+  * Facebook CTF <span class="discreet">(place 152 of 1734)</span>
+  * FAUST CTF <span class="discreet">(place 27 of 53)</span>
+  * ASIS CTF Quals <span class="discreet">(place 98 of 585)</span>
+  * PlaidCTF <span class="discreet">(place 60 of 953)</span>
+  * 0CTF/TCTF  Quals <span class="discreet">(place 40 of 915)</span>
+  * UCSB iCTF <span class="discreet">(place 106 of 398)</span>
+  * TAMUctf 19 <span class="discreet">(place 8 of 1866)</span>
   <!-- place 395 (6.594 points) -->
   * Insomni'hack teaser <span class="discreet">(place 42 of 236)</span>
 
