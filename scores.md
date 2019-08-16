@@ -25,7 +25,7 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
   * Insomni'hack teaser <span class="discreet">(place 42 of 236)</span>
 
 ### 2018
-(Overall rating place: #68, Austria: #1)
+(Overall rating place: #67, Austria: #1)
   <!-- place 68 (206.564 points) -->
   * 35C3 CTF <span class="discreet">(place 41 of 636)</span>
   * OverTheWire Advent Bonanza <span class="discreet">(place 61 of 68)</span>
