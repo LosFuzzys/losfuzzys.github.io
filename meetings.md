@@ -19,7 +19,7 @@ The calendar contains LosFuzzys' trainings and meetings. Furthermore, we add int
 <iframe src="https://calendar.google.com/calendar/embed?showPrint=0&title=LosFuzzys%27%20Calendar&amp;showTitle=0&amp;showCalendars=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23c0c0c0&amp;src=2904.cc_lq509kkank97fftfkjm3gmbq70%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=Europe%2FVienna" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
-## Weekly Trainings?
+## Weekly Meetings?
 
 LosFuzzys and friends meet every Wednesday at 18:30 to discuss current topics, look at some CTF challenges together in a relaxed atmosphere, and talk about the security stuff we recently learned or the cool tool we just discovered.
 It is always a good idea to bring your computer.
@@ -30,3 +30,12 @@ We usually meet in IAIK's [Meeting room (IFEG074)](https://online.tugraz.at/tug_
 
 In case you are interested in participating (or just curious), feel free to visit us at the [FuzzyLab (IFEG064)](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=983&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=3020009&pRaumNr=4838&pActionFlag=A&pShowEinzelraum=J).
 
+## Monthly Trainings!
+
+In order to constantly imporve LosFuzzys members are organizing monthly trainings where we focus on a specific topic and exlore it together.
+
+As with the meetings **trainings are open to everyone!**, check out the calendar above for the dates.
+
+Trainings are usually held at IAIK's [Meeting room (IFEG074)](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=983&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=3020009&pRaumNr=4839&pActionFlag=A&pShowEinzelraum=J) or [Seminar room (IFEG042)](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=983&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=3020009&pRaumNr=4844&pActionFlag=A&pShowEinzelraum=J). Both rooms are part of TU Graz' [Inffeldgasse Campus](https://tu4u.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Bilder/Campusplan/Gebaeudebereich-IFG.gif) and located at the ground floor of Inffeldgasse 16a.
+
+In case you are interested in participating (or just curious), feel free to visit us at the [FuzzyLab (IFEG064)](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=983&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=3020009&pRaumNr=4838&pActionFlag=A&pShowEinzelraum=J).
