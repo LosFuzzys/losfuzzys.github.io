@@ -24,6 +24,7 @@ We are a team of people interested in information security.
 * Mail: we -at- hack.more.systems
 * Twitter: [@LosFuzzys](https://twitter.com/LosFuzzys)
 * Mailinglist: [losfuzzys@htu.tugraz.at](mailto:losfuzzys@htu.tugraz.at) ([subscribe](https://mail.htu.tugraz.at/cgi-bin/mailman/listinfo/losfuzzys))
+* Discord: [https://discord.gg/Wkk3W8B](https://discord.gg/Wkk3W8B)
 
 <p class="small dark">LosFuzzys is currently coordinated by 
   <a href="https://twitter.com/stefan2904">stefan</a>, 

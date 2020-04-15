@@ -1,4 +1,4 @@
-    <div class="container">
+    <div class="container" style="position: relative">
         <img src="/images/logo_gruen_web.png" style="max-width:50%; height: auto" alt="LosFuzzys: don't feed the bugs">
 
         <nav>
@@ -7,4 +7,24 @@
           {% if page.title %}{% unless page.hidden %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endunless %}{% endif %}
         {% endfor %}
         </nav>
+
+        <div class="bannerbutton">
+            <a href="https://discord.gg/Wkk3W8B" target="_blank">
+                <img src="/images/join-discord.png" style="max-width:100%; height: auto" alt="discord">
+            </a>
+        </div>
+        <style>
+            .bannerbutton {
+                max-width:40%;
+                width: 218px;
+                position: absolute;
+                top: 10px;
+                right: 0px;
+            }
+            @media (max-width: 750px) {
+                .bannerbutton {
+                    top: 0px;
+                }
+            }
+        </style>
     </div>
