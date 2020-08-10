@@ -27,10 +27,10 @@ We are a team of people interested in information security.
 * Discord: [https://discord.gg/msAgbnx](https://discord.gg/msAgbnx)
 
 <p class="small dark">LosFuzzys is currently coordinated by 
-  <a href="https://twitter.com/stefan2904">stefan</a>, 
-  <a href="https://twitter.com/__kaydoubleu__">kw</a>, 
-  <a href="https://twitter.com/a95bc16631ae2b6">rs</a>,
-  <a href="https://github.com/exokortex">exo</a>, and
+  <a href="https://twitter.com/stefan2904">stefan</a> &
+  <a href="https://twitter.com/__kaydoubleu__">kw</a> & 
+  <a href="https://twitter.com/a95bc16631ae2b6">rs</a> &
+  <a href="https://github.com/exokortex">exo</a> &
   <a href="https://twitter.com/h4ckd0tm3">h4</a><br>
   (previously also by <a href="https://twitter.com/f0rki">f0rki</a>, ...).
 </p>
