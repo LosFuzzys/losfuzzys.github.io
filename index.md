@@ -22,7 +22,7 @@ We are a team of people interested in information security.
 
 
 * Mail: we -at- hack.more.systems
-* Twitter: [@LosFuzzys](https://twitter.com/LosFuzzys)
+* Twitter: [@LosFuzzys](https://twitter.com/LosFuzzys) <small>(Currently suspended for unknown reasons.)</small>
 * Mailinglist: [losfuzzys@htu.tugraz.at](mailto:losfuzzys@htu.tugraz.at) ([subscribe](https://mail.htu.tugraz.at/cgi-bin/mailman/listinfo/losfuzzys))
 * Discord: [https://discord.gg/msAgbnx](https://discord.gg/msAgbnx)
 
