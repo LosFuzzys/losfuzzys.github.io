@@ -10,9 +10,43 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 ## Past CTF participations
 
 <!-- generated using scripts/getPastCTFs.py  -->
+  
+### 2020
+  * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
+  <!-- place 267 (80.752 points) -->
+  * CSAW CTF Qualification Round <span class="discreet">(place 168 of 1214)</span>
+  * ALLES! CTF <span class="discreet">(place 25 of 470)</span>
+  * Google Capture The Flag <span class="discreet">(place 63 of 625)</span>
+  * Houseplant CTF <span class="discreet">(place 709 of 1419)</span>
+  * PlaidCTF <span class="discreet">(place 61 of 1095)</span>
+  * Midnight Sun CTF  Quals <span class="discreet">(place 258 of 527)</span>
+  * X-MAS GTF <span class="discreet">(place 89 of 345)</span>
+  * VolgaCTF  Qualifier <span class="discreet">(place 189 of 504)</span>
+  * saarCTF <span class="discreet">(place 26 of 81)</span>
+  * UTCTF <span class="discreet">(place 132 of 1001)</span>
+  * NeverLAN CTF <span class="discreet">(place 858 of 1158)</span>
+  * HackTM CTF Quals <span class="discreet">(place 38 of 747)</span>
+  * riceteacatpanda <span class="discreet">(place 497 of 1323)</span>
+  * Insomni'hack teaser <span class="discreet">(place 29 of 647)</span>
 
 ### 2019
-  * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
+(Overall rating place: #80, Austria: #2)
+  <!-- place 80 (227.992 points) -->
+  * hxp 36C3 CTF <span class="discreet">(place 93 of 321)</span>
+  * CTFZone  Quals <span class="discreet">(place 50 of 492)</span>
+  * TUCTF <span class="discreet">(place 810 of 1005)</span>
+  * RuCTFE <span class="discreet">(place 62 of 187)</span>
+  * CSAW CTF Final Round <span class="discreet">(place 12 of 45)</span>
+  * Newbie CTF(N-CTF) <span class="discreet">(place 48 of 564)</span>
+  * TastelessCTF <span class="discreet">(place 50 of 157)</span>
+  * Hack.lu CTF <span class="discreet">(place 52 of 277)</span>
+  * HITCON CTF  Quals <span class="discreet">(place 58 of 662)</span>
+  * Balsn CTF <span class="discreet">(place 62 of 728)</span>
+  * picoCTF <span class="discreet">(place 11012 of 3003)</span>
+  * Teaser Dragon CTF <span class="discreet">(place 45 of 297)</span>
+  * CSAW CTF Qualification Round <span class="discreet">(place 12 of 1301)</span>
+  * DefCamp CTF Qualification <span class="discreet">(place 21 of 304)</span>
+  * TokyoWesterns CTF 5th <span class="discreet">(place 57 of 1005)</span>
   <!-- place 118 (122.849 points) -->
   * Facebook CTF <span class="discreet">(place 152 of 1734)</span>
   * FAUST CTF <span class="discreet">(place 27 of 53)</span>
@@ -25,7 +59,7 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
   * Insomni'hack teaser <span class="discreet">(place 42 of 236)</span>
 
 ### 2018
-(Overall rating place: #67, Austria: #1)
+(Overall rating place: #48, Austria: #1)
   <!-- place 68 (206.564 points) -->
   * 35C3 CTF <span class="discreet">(place 41 of 636)</span>
   * OverTheWire Advent Bonanza <span class="discreet">(place 61 of 68)</span>
@@ -112,7 +146,7 @@ Since 2017, only the 10 best results count in the yearly rating.
 
 
 ### 2016 
-(Overall rating place: 36, Austria: #2)
+(Overall rating place: #36, Austria: #2)
   <!-- place 36 (333.244 points) -->
   * 33C3 CTF <span class="discreet">(place 48 of 277)</span>
   <!-- place 38 (293.092 points) -->
@@ -152,7 +186,7 @@ Since 2017, only the 10 best results count in the yearly rating.
   * Insomni'hack teaser <span class="discreet">(place 44 of 245)</span>
 
 ### 2015 
-(Overall rating place: 152)
+(Overall rating place: #152)
   <!-- place 152 (73.994 points) -->
   * 32C3 CTF <span class="discreet">(place 58 of 389)</span>
   * FAUST CTF <span class="discreet">(place 6 of 62)</span>
