@@ -12,6 +12,9 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 <!-- generated using scripts/getPastCTFs.py  -->
   
 ### 2020
+  <!-- place 253 (92.265 points) -->
+  * SECCON  Online CTF <span class="discreet">(place 414 of 579)</span>
+  * TastelessCTF <span class="discreet">(place 7 of 471)</span>
   * [*Upcoming Events*](https://ctftime.org/event/list/upcoming).
   <!-- place 267 (80.752 points) -->
   * CSAW CTF Qualification Round <span class="discreet">(place 168 of 1214)</span>
