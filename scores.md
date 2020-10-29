@@ -12,6 +12,8 @@ Check out [our (almost complete) CTF history on CTFtime](https://ctftime.org/tea
 <!-- generated using scripts/getPastCTFs.py  -->
   
 ### 2020
+  <!-- place 190 (121.895 points) -->
+  * Hack.lu CTF <span class="discreet">(place 35 of 302)</span>
   <!-- place 253 (92.265 points) -->
   * SECCON  Online CTF <span class="discreet">(place 414 of 579)</span>
   * TastelessCTF <span class="discreet">(place 7 of 471)</span>
