@@ -134,7 +134,7 @@ Then, there's this tip:
 
 So we can probably ignore the browser.
 
-One other remote tool that is running here is `mstsc.exe`, which is the Windows remote desktop connection.
+One other remote tool that is running here is `mstsc.exe` (PID 6484), which is the Windows remote desktop connection.
 
 We can dump its memory with `vol.py -f challenge.vmem --profile=Win10x64_18362 procdump -p 6484 --dump-dir procdump_mstsc`, which writes the dump to the directory we specified.
 After this, I spent some time looking over the strings in this dump to maybe find something useful.
